@@ -33,4 +33,7 @@ This project predicts stock prices using a Long Short-Term Memory (LSTM) neural 
 
 
 ## Results  
-- Outputs the predicted stock prices compared to actual data with visualizations.  
+- Outputs the predicted stock prices compared to actual data with visualizations.
+  <img src="predictions_plot.png" alt="Plot for Predictions" width="500" height="300">
+  <img src="losses_plot.png" alt="Plot for Losses" width="500" height="300">
+
